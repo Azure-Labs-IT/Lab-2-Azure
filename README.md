@@ -61,13 +61,6 @@ Choose an Ooperating System(OS) your Virtual Machine will be using. If the virtu
 </p>
 
 <p align="center">
-Review new resource group and adjust necessary settings:  <br/>
-<img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Creating%20Resource%20Groups.png" height="80%" width="80%" alt="Create Research Groups"/>
-<br/>
-<br/>
-</p>
-
-<p align="center">
 Choose your Virtual Machine RAM. This option heavily impacts the speed of the Virtual Machine, I suggest 8GB at minimum as lower RAM sizes tend to be a bit slow: <br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-2-Azure/blob/main/6%20Choose%20RAM%20size%20I%20suggest%20at%20minimum%208GB%20as%20lower%20sizes%20tend%20to%20be%20a%20bit%20slow.png" height="80%" width="80%" alt="Choose RAM"/>
 <br />
