@@ -40,8 +40,8 @@ Click on "➕Create" this will open a drop-down. On that drop-down click on Virt
 </p>
 
 <p align="center">
-Assign your Virtual Machine to a Resource Group:  <br/>
-<img src="https://github.com/Azure-Labs-IT/Lab-2-Azure/blob/main/3%20Assign%20VM%20to%20Resource%20Group.png" height="80%" width="80%" alt="Assign VM to resource Group"/>
+Assign your Virtual Machine to a Resource Group and Azure Subscription if you have more than one:  <br/>
+<img src="https://github.com/Azure-Labs-IT/Lab-2-Azure/blob/main/3%20Assign%20VM%20to%20Resource%20Group.png" height="80%" width="80%" alt="Assign VM to resource Group and Subscription"/>
 <br />
 <br />
 </p>
