@@ -54,7 +54,7 @@ Name your Virtual Machine, I would suggest giving it a name that indicates the O
 </p>
 
 <p align="center">
-Choose an Ooperating System(OS) your Virtual Machine will be using. If the virtual Machine is for personal use I would suggest choosing an operating system you are used to, for me that would be Windows but it may differ from person to person. Alternatively you can choose a different OS as practice to familairize yourself with that Operating System and it's shortcuts and overal functionality:  <br/>
+Choose an Ooperating System(OS) your Virtual Machine will be using. If the Virtual Machine is for personal use I would suggest choosing an operating system you are used to, for me that would be Windows but it may differ from person to person. Alternatively you can choose a different OS as practice to familairize yourself with that Operating System and it's shortcuts and overal functionality:  <br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-2-Azure/blob/main/5%20Choose%20OS%20version%20for%20VM%20under%20image%20options.png" height="80%" width="80%" alt="Choose OS for VM"/>
 <br />
 <br />
@@ -75,7 +75,7 @@ Input the login details and username for the Virtual Machine ,these will be used
 </p>
 
 <p align="center">
-Now click Next at the bottom of the page/screen until you get to the Networking info of the Virtual Machine/page:  <br/>
+Now click Next at the bottom of the page/screen until you get to the Networking info/tab of the Virtual Machine you are creating:  <br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-2-Azure/blob/main/8%20Click%20Next%20until%20you%20get%20to%20the%20Networking%20info.png" height="80%" width="80%" alt="Click next until Networking Tab"/>
 <br />
 <br />
