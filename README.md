@@ -84,7 +84,9 @@ Now click Next at the bottom of the page/screen until you get to the Networking 
 <p align="center">
 You can choose to create a custom network for the Virtual Machine or leave it predefined:  <br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-2-Azure/blob/main/9%20Leave%20Virtual%20Network%20or%20create%20your%20own.png" height="80%" width="80%" alt="Leave Virtual Network as predefined"/> <br/>
+</p>
 
+<p align="center">
 If you choose to create a Network, you will have to configure it's subnet mask as well:<br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-2-Azure/blob/main/9%20Create%20Virtual%20Network.png" height="80%" width="80%" alt="Create custom Virtual Network"/>
 <br />
