@@ -31,7 +31,9 @@ Log-in to Azure (no need if you're already logged in) and on the top search bar 
 
 <p align="center">
 Click on "➕Create" this will open a drop-down On that drop-down click on Virtual Machine this will take you to a screen where you can create a Virtual machine to your own specificiation and liking  
-<b>(If you are running your account on a free trial please keep in mind that some options/specifications for your virtual machine are only available for paid/paying users)<b/> <br />
+<b>(If you are running your account on a free trial please keep in mind that some options/specifications for your virtual machine are only available for paid/paying users)
+</b> 
+ <br />
 <img src="https://github.com/Azure-Labs-IT/Lab-2-Azure/blob/main/2%20Click%20Create%20VM.png" height="80%" width="80%" alt="Create Account"/>
 <br />
 <br />
