@@ -47,7 +47,7 @@ Assign your Virtual Machine to a Resoruce Group:  <br/>
 </p>
 
 <p align="center">
-Name your Virtual Machine, I would suggest giving it a name that has the OS it will be using for example if you're creating a Windows OS virtual Machine like "WindowsVM" (incase you have multple VMs with different OS on each): <br/>
+Name your Virtual Machine, I would suggest giving it a name that has the OS it will be using for example if you're creating a Windows OS virtual Machine naming it something like "WindowsVM" (this is in the case you have multple VMs with different OS on each): <br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-2-Azure/blob/main/4%20Name%20VM%20based%20on%20the%20OS%20version%20you%20want%20to%20use%20or%20preferred%20name.png" height="80%" width="80%" alt="Name VM based on OS"/>
 <br />
 <br />
