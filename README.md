@@ -100,6 +100,7 @@ After the Network Tab click next until you reach review and create, you will hav
 <br />
 </p>
 
+<p align="center">
 <b> And you're done now ,you can now use the Virtual Machine as you please(remember you pay as you use): </b>  <br/>
 </p>
 
