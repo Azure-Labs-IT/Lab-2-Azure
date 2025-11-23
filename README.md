@@ -94,7 +94,7 @@ If you choose to create a Network, you will have to configure it's subnet mask a
 </p>
 
 <p align="center">
-After the Network Tab click next until you reach review and create, you will have to wait a bit for Azure to validate your Virtual Machine specs. Once it's done you can click Create:  <br/>
+After the Networking Tab click next until you reach the Review and Create Tab, you will have to wait a bit for Azure to validate your Virtual Machine specs. Once it's done you can click Create:  <br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-2-Azure/blob/main/10%20After%20Clicking%20Review%20and%20Create%20%20wait%20a%20bit%20for%20Azure%20to%20validate%20and%20then%20click%20Create%20this%20will%20deploy%20the%20VM.png" height="80%" width="80%" alt="Validate and Create VM"/>
 <br />
 <br />
