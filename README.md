@@ -23,7 +23,7 @@ How to Create Simple Functional Virtual Machine(s) on Azure
 <h2>Labs walk-through:</h2>
 
 <p align="center">
-Log-in to Azure (no need if you're already logged in) and on the top search bar search for "Virtual Machines". Once it appears in the drop-down options of the search bar, click on it: <br/>
+Log-in to Azure (no need if you're already logged in) and on the top search bar search for "Virtual Machines". Once it appears in the drop-down options, click on it: <br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-2-Azure/blob/main/1%20Search%20for%20VM.png" height="80%" width="80%" alt="Search for Vitual Machine"/>
 <br />
 <br />
