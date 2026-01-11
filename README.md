@@ -1,5 +1,5 @@
 # Lab-2-Azure
-Creating of Simple Virtual Machines on Azure
+This lab focuses on the practical deployment of Azure Virtual Machines (VMs), a fundamental cloud compute resource that emulates physical hardware. You will be guided through the Azure Portal to select appropriate operating systems (Windows or Linux), configure instance sizes based on performance needs, and establish secure remote access via RDP.
 <h1>Azure Virtual Machine Creation and Deployment</h1>
 
 <h2>Description</h2>
